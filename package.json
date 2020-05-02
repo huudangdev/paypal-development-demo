@@ -10,6 +10,8 @@
   "dependencies": {
     "next": "9.3.6",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "sweetalert2": "^9.10.12",
+    "sweetalert2-react-content": "^3.0.1"
   }
 }
